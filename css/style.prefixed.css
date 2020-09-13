@@ -1,6 +1,7 @@
 main{
     padding: 20px;
     font-family: "Times New Roman", Times, serif;
+    display: -ms-flexbox;
     display: flex;
 }
 main header h1{

@@ -1,0 +1,5 @@
+npm i autoprefixer-cli
+npm install --global autoprefixer-cli
+autoprefixer-cli -o css/style.prefixed.css css/style.css
+npm install -g html-validate
+html-validate *.html
